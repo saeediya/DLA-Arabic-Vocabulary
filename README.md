@@ -1,4 +1,4 @@
-# DLA-Arabic-Vocabulary
+# DLA Arabic Vocabulary
 
 DLA stands for دروس اللغة العربية which is a standard textbook of the Arabic language authored by Dr. V. Abdur Rahim.
 This page is a collection of Anki decks containing the vocabulary used in these books, created solely for the benefit of Arabic language learners across the world. Hence various decks are available in various languages[^1] so that as many people may benefit from it as possible.

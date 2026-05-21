@@ -29,7 +29,7 @@ Each module/sub-module is an Anki deck/sub-deck containing Anki cards in the pre
 
 ## Master Vocabulary
 
-The vocabulary is entirely sourced from the official key of the book in the English language, authored by Dr. V. Abdur Rahim himself and published by the Islamic Foundation Trust in Chennai. However, certain changes have been made wherever it has been deemed necessary in order to reduce potential mistakes by students while studying cards made using the type-in card template.
+The vocabulary is entirely sourced from the official key of the book in the English language, authored by Dr. V. Abdur Rahim himself and published by the Islamic Foundation Trust in Chennai. However, certain changes have been made wherever it has been deemed necessary in order to reduce potential mistakes by students while studying cards using the type-in card template.
 
 ### Vocabulary List
 

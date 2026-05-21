@@ -23,8 +23,8 @@ Each module/sub-module is an Anki deck/sub-deck containing Anki cards in the pre
 2. Ur-Ar
 
 #### Roman Urdu
-1. Ar-Ro
-2. Ro-Ar
+1. Ar-RoUr
+2. RoUr-Ar
 
 
 ## Master Vocabulary

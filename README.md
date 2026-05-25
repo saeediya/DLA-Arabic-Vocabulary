@@ -14,17 +14,9 @@ Each module/sub-module is an Anki deck/sub-deck containing Anki cards in the pre
 
 ### Currently Available Modules:
 
-#### English
-1. Ar-En
-2. En-Ar
-
-#### Urdu
-1. Ar-Ur
-2. Ur-Ar
-
-#### Roman Urdu
-1. Ar-RoUr
-2. RoUr-Ar
+- English
+- Urdu
+- Roman Urdu
 
 
 ## Master Vocabulary
